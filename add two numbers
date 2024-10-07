@@ -1,0 +1,16 @@
+3 start 
+first_term:24
+one:1
+start:7 first_term cell1
+1 first_term one cell2
+1 cell1:0 cell2:0 100
+9
+sum:0
+number1:0
+0
+0
+0
+0
+0
+47
+53
